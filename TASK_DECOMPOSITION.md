@@ -25,4 +25,4 @@ render a semantic (zero div-soup) UI, prove XSS resistance, and audit DOM ↔ VN
 - [x] Task 1.4: Implement recursive `renderToDOM` with typeguards
 - [x] Task 1.5: Implement DOM ↔ VNode parity auditor (no orphan nodes)
 - [x] Task 1.6: Build semantic demo UI + XSS checkpoint (`<script>alert(1)</script>` as child)
-- [ ] Task 1.7: Document DevTools audit procedure in README
+- [x] Task 1.7: Document DevTools audit procedure in README
