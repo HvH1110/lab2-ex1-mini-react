@@ -1,0 +1,21 @@
+{
+  "name": "lab2-ex1-mini-react",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lab 02 / Exercise 1 — Mini-React VNode & mounting engine built from scratch",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.5"
+  }
+}
