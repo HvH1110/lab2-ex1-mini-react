@@ -21,7 +21,7 @@ render a semantic (zero div-soup) UI, prove XSS resistance, and audit DOM ↔ VN
 - [x] Task 1.0: Write `project-rules.md` and `TASK_DECOMPOSITION.md`
 - [x] Task 1.1: Scaffold Vite + TypeScript + Vitest toolchain
 - [x] Task 1.2: Define VNode & Props interfaces and typeguards (Contract)
-- [ ] Task 1.3: Implement `createTextElement` and `createElement` flattening & mapping
+- [x] Task 1.3: Implement `createTextElement` and `createElement` flattening & mapping
 - [ ] Task 1.4: Implement recursive `renderToDOM` with typeguards
 - [ ] Task 1.5: Implement DOM ↔ VNode parity auditor (no orphan nodes)
 - [ ] Task 1.6: Build semantic demo UI + XSS checkpoint (`<script>alert(1)</script>` as child)
